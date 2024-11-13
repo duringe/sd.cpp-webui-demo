@@ -7,6 +7,8 @@ Dome from sd.cpp-webui project
 如果追求极限大小,可以试试看只要sd.cpp的cli界面生图,只有5mb左右.
 
 
+
+
 ## Installation and Running
 ### Steps
 1. 在models中放置对应的模型
@@ -22,9 +24,7 @@ Dome from sd.cpp-webui project
 - 文件目录
 
 ![1](https://github.com/duringe/stable-diffusion-mini-launcher-webui/blob/main/1.png)
-
 - webui
-
 ![2](https://github.com/duringe/stable-diffusion-mini-launcher-webui/blob/main/2.png)
 
 
