@@ -21,8 +21,11 @@ Dome from sd.cpp-webui project
 ## screenshot
 - 文件目录
 
+![1](https://github.com/duringe/stable-diffusion-mini-launcher-webui/blob/main/1.png)
+
 - webui
 
+![2](https://github.com/duringe/stable-diffusion-mini-launcher-webui/blob/main/2.png)
 
 
 ## Credits
