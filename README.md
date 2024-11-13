@@ -2,9 +2,9 @@
 
 Dome from sd.cpp-webui project
 
-用python的venv环境下载好的Gradio环境,集合了sd.cpp(sd生图核心),sd.cpp-webui(sd界面),简小的sd应用.解压后只有差不多300mb.
+用python的venv环境下载好的Gradio环境,集合了sd.cpp(sd生图核心),sd.cpp-webui(sd界面),整合成的简小的sd应用.解压后只有差不多300mb.✔
 
-如果追求极限大小,可以试试看只要sd.cpp的cli界面生图,只有5mb左右.
+如果追求极限大小,可以试试看只要sd.cpp的cli界面生图,只有5mb左右.🐱‍🏍
 
 
 
